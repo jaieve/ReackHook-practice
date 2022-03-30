@@ -1,0 +1,25 @@
+{
+  "name": "@hsy-nooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaieve/ReackHook-practice.git"
+  },
+  "keywords": [
+    "react",
+    "title",
+    "hooks"
+  ],
+  "author": "Jaieve-hsy <yoori0303@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaieve/ReackHook-practice/issues"
+  },
+  "homepage": "https://github.com/jaieve/ReackHook-practice#readme",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
